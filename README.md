@@ -5,7 +5,7 @@
 <body>
 
 <h1>About Data sets</h1>
-<p>Hello, This is Durgesh In short while we are going to discuss about Everything about data set that has been used in this project.</p>
+<p>Hello, This is Kartikeya In short while we are going to discuss about Everything about data set that has been used in this project.</p>
 <h5>Features in this Datasets<h5>
 <pre>
 1	Additional Order items
